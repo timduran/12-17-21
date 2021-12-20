@@ -1,3 +1,4 @@
+// naming the const seed
 const seed = [
   {
     title: 'John is Cool',
